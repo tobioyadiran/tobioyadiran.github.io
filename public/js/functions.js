@@ -1,3 +1,4 @@
+
 function randomize() {
 	items = [
 	    { image : '../images/final.png', link : 'illustration' },
@@ -91,3 +92,4 @@ $(document).ready(function() {
 	    $('body').removeClass('no-touch');
 	}
 });
+

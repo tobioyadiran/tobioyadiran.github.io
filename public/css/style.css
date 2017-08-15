@@ -1,4 +1,9 @@
-/* website by hi@andychung.me */
+/* website by Tobi Oyadiran */
+
+
+.header{
+    
+}
 
 @font-face {
 	font-family: 'Graphik Web';
@@ -150,8 +155,8 @@ nav li.selected a {
 }
 
 p2 {
-	font-weight: bold;
-	font-size: 40px;
+	font-weight: ;
+	font-size: 37px;
 	line-height: 16px;
 	margin-bottom: 8px;
     color: #000059
@@ -183,8 +188,8 @@ ul.tags li:last-child::after {
 }
 
 p {
-	font-size: 18px;
-	line-height: 36px;
+	font-size: 15px;
+	line-height: 25px;
 	margin-bottom: 36px;
     color: #828282
 }
@@ -288,8 +293,8 @@ p.projects span:last-child::after {
 	}
 
 	p {
-		font-size: 18px;
-		line-height: 32px;
+		font-size: 13px;
+		line-height: 25px;
 		margin-bottom: 32px;
 	}
 }
